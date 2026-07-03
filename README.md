@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tigrismendez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://uploadtigris.github.io"><link rel="icon" type="image/png" href="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white">
+  <a href="https://uploadtigris.github.io"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Website"/></a>
   <img src="https://img.shields.io/badge/Austin,%20TX-333333?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Austin, TX"/>
 </p>
 
