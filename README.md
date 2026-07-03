@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tigris 👋</h1>
 
 <p align="center">
-  <em>breadboard? mmm bread 🍞</em>
+  <em>"Hans... are we the baddies?"</em>
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@ Security-minded sysadmin who likes hardening things until they're boring (in the
 
 - 🛡️ Focused on **cloud security, system hardening, and defensive infrastructure**
 - 📐 I model my baselines after **CIS Benchmarks** and verify posture with real tooling, not vibes
-- 🧪 Currently tinkering till something explodes in my home lab
 - 📓 Keeping field notes so future-me (and you) don't have to relearn the same fix twice
 
 ---
@@ -33,18 +32,6 @@ Security-minded sysadmin who likes hardening things until they're boring (in the
 ![Wazuh](https://img.shields.io/badge/Wazuh_SIEM-005792?style=flat-square&logo=wazuh&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-1D72B8?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-### 🚀 Featured Projects
-
-| Project | What it does |
-| :--- | :--- |
-| 🔒 **[aws-secure-baseline](https://github.com/uploadtigris/aws-secure-baseline)** | Hardening EC2 instances with a baseline modeled after CIS Benchmarks |
-| 🏗️ **[hardened-image-pipeline](https://github.com/uploadtigris/hardened-image-pipeline)** | Applying CIS Benchmarks to EC2 & verifying posture with Wazuh SIEM |
-| 📓 **[sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook)** | Field notes and scripts from real Linux, Windows & networking troubleshooting |
-| 💥 **[my_home_lab](https://github.com/uploadtigris/my_home_lab)** | Tinkering till something explodes |
-| 🌐 **[uploadtigris.github.io](https://github.com/uploadtigris/uploadtigris.github.io)** | My personal website 😀 |
 
 ---
 
