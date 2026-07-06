@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tigris 👋</h1>
 
 <p align="center">
-  <em>I give my house key only to those who should be there</em>
+  <em>I give my house-key only to those who should be there</em>
 </p>
 
 <p align="center">
