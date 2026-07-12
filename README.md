@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Tigris 👋</h1>
+<h1 align="center">Hi 🐯</h1>
 
 <p align="center">
-  <em>I give my house-key only to those who should be there</em>
+  <em>🔒 Lock it down 🗝️</em>
 </p>
 
 <p align="center">
