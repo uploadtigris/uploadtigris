@@ -14,7 +14,7 @@
 
 ### 🔐 About me
 
-Security-minded sysadmin who likes hardening things until they're boring (in the best way). I spend my time locking down cloud infrastructure, taking messy systems and making them auditable, and breaking my home lab so production does not.
+Security-minded sysadmin who likes hardening things until they're boring. I spend my time locking down cloud infrastructure, taking messy systems and making them auditable, and breaking my home lab so production does not.
 
 - 🛡️ Focused on **cloud security, system hardening, and defensive infrastructure**
 - 📐 I model my baselines after **CIS Benchmarks** and verify posture with real tooling, not vibes
