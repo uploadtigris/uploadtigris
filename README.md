@@ -36,5 +36,5 @@ Security-minded sysadmin who likes hardening things until they're boring (in the
 ---
 
 <p align="center">
-  <em>Hardening things one benchmark at a time. 🍞</em>
+  <em>If they're being bad I'm going to put them in timeout</em>
 </p>
