@@ -35,19 +35,6 @@ Security-minded sysadmin who likes hardening things until they're boring (in the
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uploadtigris&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uploadtigris&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uploadtigris&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
----
-
 <p align="center">
   <em>Hardening things one benchmark at a time. 🍞</em>
 </p>
