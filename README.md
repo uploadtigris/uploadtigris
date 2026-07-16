@@ -33,8 +33,3 @@ Security-minded sysadmin who likes hardening things until they're boring. I spen
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-1D72B8?style=flat-square&logo=cisco&logoColor=white)
 
----
-
-<p align="center">
-  <em>If they're being bad I'm going to put them in timeout</em>
-</p>
