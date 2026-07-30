@@ -14,7 +14,7 @@
 
 ### 🔐 About me
 
-Coming from a Data Analysis & Machine Learning background, I focus on Cloud Infrastructure & programming Cloud-native applications. 
+Coming from a Data Analysis & Machine Learning background, I focus on Cloud Infrastructure & programming Cloud-native applications. My approach emphasizes simplicity, scalability, security, and performance in the programs and architectures I create.
 
 ---
 
