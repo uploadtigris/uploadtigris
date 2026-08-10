@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🐯</h1>
 
 <p align="center">
-  <em>🔒 Lock it down 🗝️</em>
+  <em>👾 going intergalactic 👾</em>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### 🔐 About me
 
-Coming from a Data Analysis & Machine Learning background, I focus on Cloud Infrastructure & programming Cloud-native applications. My approach emphasizes simplicity, scalability, security, and performance in the programs and architectures I create.
+Coming from a Data Analysis & Machine Learning background, I now build webapps and IT tools that make a bit easier to do good work.
 
 ---
 
