@@ -14,7 +14,7 @@
 
 ### 🧑🏻‍💻 About me
 
-Coming from a Data Analysis & Machine Learning background, I now build webapps and IT tools that make a bit easier to do good work.
+Coming from a Data Analysis & Machine Learning background, I now build webapps and IT tools that make it a bit easier to do good work.
 
 ---
 
