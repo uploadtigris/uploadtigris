@@ -14,7 +14,7 @@
 
 ### 🧑🏻‍💻 About me
 
-Coming from a Data Analysis & Machine Learning background, I now develop systems with a focus on Security.
+Embedded Systems Developer with a background in Support, low-level interests, and a hunger for knowledge.
 
 ---
 
