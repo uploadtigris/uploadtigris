@@ -45,7 +45,6 @@ Status means what it says: **running** is live today, **in progress** is being b
 
 📂 **Start here:**
 [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids) (the VLAN build) ·
-[sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook) (troubleshooting write-ups) ·
 [my_home_lab](https://github.com/uploadtigris/my_home_lab) (gear and roadmap) ·
 [networking_notes](https://github.com/uploadtigris/networking_notes) (Network+ and CCNA notes)
 
