@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tigris 🐯</h1>
-<p align="center"><em>Network technician in training · Austin, TX</em></p>
+<p align="center"><em>Network technician · Austin, TX</em></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tigrismendez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
