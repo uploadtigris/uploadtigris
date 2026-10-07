@@ -34,6 +34,10 @@ Systems & security:
 ![Wazuh](https://img.shields.io/badge/Wazuh-3595F9)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
 
+Monitoring:
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+
 Scripting:
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
