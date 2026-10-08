@@ -15,7 +15,7 @@ I'm an IT Support Associate at Whole Foods Market (Amazon) moving into networkin
 
 - 🔧 **Building now:** a five-VLAN home network (Mgmt, Trusted, IoT, Guest, Servers) → [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids)
 - 📓 **Writing down every fix:** [sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook)
-- 🎓 **Certs:** CompTIA Security+ ✅ · CompTIA Network+ (Oct 2026) · Cisco CCNA (studying)
+- 🎓 **Certs:** CompTIA Security+ ✅ · Cisco CCNA (studying)
 - 💼 **Looking for:** entry-level network technician / NOC / network support roles in Austin or remote
 
 ---
