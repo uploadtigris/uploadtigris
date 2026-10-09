@@ -11,9 +11,9 @@
 
 ### About me
 
-I'm an IT Support Associate at Amazon moving into networking. At work I troubleshoot VPN, DNS and domain problems for 5,000+ users. At home I run a rack with a pfSense firewall, a managed PoE switch, a multi-SSID access point and a Pi-hole, and I'm segmenting it into VLANs with default-deny firewall rules.
+I'm an IT Support Associate at Amazon moving into networking. At work I troubleshoot VPN, DNS and domain problems for 5,000+ users. At home I run a rack with a pfSense firewall, a managed PoE switch, a multi-SSID access point and a Pi-hole, and I've segmented it into five VLANs with least-privilege firewall rules.
 
-- 🔧 **Building now:** a five-VLAN home network (Mgmt, Trusted, IoT, Guest, Servers) → [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids)
+- 🔧 **Just built:** a five-VLAN home network (Mgmt, Trusted, IoT, Guest, Servers) → [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids)
 - 📓 **Writing down every fix:** [sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook)
 - 🎓 **Certs:** CompTIA Security+ ✅ · Cisco CCNA (studying)
 - 💼 **Looking for:** entry-level network technician / NOC / network support roles in Austin or remote
