@@ -20,6 +20,7 @@ I'm an IT Support Associate at Amazon, where I troubleshoot VPN, DNS and domain 
 |---|---|---|
 | [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids) | Five VLANs (Mgmt, Trusted, IoT, Guest, Servers), least-privilege pfSense rules, DNS forced through Pi-hole, 10 of 10 validation tests passed | ✅ Phase 1 complete, Suricata IDS next |
 | [wazuh-siem-homelab](https://github.com/uploadtigris/wazuh-siem-homelab) | A Wazuh SIEM collecting logs from the segmented network | 🚧 Rebuilding |
+| [hydroponics_sensing](https://github.com/uploadtigris/hydroponics_sensing) | A Gardyn garden revived with my own Pico W sensors (I2C, MQTT), documented from the first bench test | 🌱 Bench build |
 | [sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook) | Notes on every fix and command I've learned | 📓 Ongoing |
 
 ## Certifications
