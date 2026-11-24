@@ -1,38 +1,37 @@
-<h1 align="center">Hi, I'm Tigris 🐯</h1>
-<p align="center"><strong>IT support at Amazon, moving into networking · Austin, TX</strong></p>
+# Hi, I'm Tigris 🐯
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tigrismendez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://uploadtigris.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/></a>
-</p>
+IT support at Amazon · learning C and embedded systems · Austin, TX
 
----
+[LinkedIn](https://www.linkedin.com/in/tigrismendez) · [Portfolio](https://uploadtigris.github.io)
 
 ## About me
 
-I'm an IT Support Associate at Amazon, where I troubleshoot VPN, DNS and domain problems for 5,000+ users. At home I run a small rack with a pfSense firewall, a managed PoE switch, a multi-SSID access point and a Pi-hole. I've segmented it into five VLANs with least-privilege firewall rules.
+I'm an IT Support Associate at Amazon, where I troubleshoot VPN, DNS and
+domain problems for 5,000+ users. I'm building toward embedded systems
+that live on a network: small devices that sense, talk MQTT, and stay up.
 
-**Looking for:** entry-level network technician, NOC or network support roles in Austin or remote.
+My networking background is what I bring to that. At home I run a pfSense
+firewall, a managed PoE switch, a multi-SSID access point and a Pi-hole,
+segmented into five VLANs with least-privilege firewall rules.
+
+**Currently:** learning C and building Pico W sensor projects.
 
 ## Featured projects
 
 | Project | What it shows | Status |
 |---|---|---|
-| [network-segmentation-ids](https://github.com/uploadtigris/network-segmentation-ids) | Five VLANs (Mgmt, Trusted, IoT, Guest, Servers), least-privilege pfSense rules, DNS forced through Pi-hole, 10 of 10 validation tests passed | ✅ Phase 1 complete, Suricata IDS next |
-| [wazuh-siem-homelab](https://github.com/uploadtigris/wazuh-siem-homelab) | A Wazuh SIEM collecting logs from the segmented network | 🚧 Rebuilding |
-| [hydroponics_sensing](https://github.com/uploadtigris/hydroponics_sensing) | A Gardyn garden revived with my own Pico W sensors (I2C, MQTT), documented from the first bench test | 🌱 Bench build |
-| [sysadmin_handbook](https://github.com/uploadtigris/sysadmin_handbook) | Notes on every fix and command I've learned | 📓 Ongoing |
+| hydroponics_sensing | A Gardyn garden revived with my own Pico W sensors (I2C, MQTT), documented from the first bench test | 🌱 Bench build |
+| network-segmentation-ids | Five VLANs (Mgmt, Trusted, IoT, Guest, Servers), least-privilege pfSense rules, DNS forced through Pi-hole, 10 of 10 validation tests passed | ✅ Phase 1 complete |
+| sysadmin_handbook | Real troubleshooting write-ups (DNS, TCP/IP, Windows, Linux) in STAR format, with commands | 📓 Ongoing |
+| linux-automation | Bash and Python scripts for Linux administration | 🔧 Ongoing |
 
-## Certifications
-
-- ✅ CompTIA Security+
-- 📚 Cisco CCNA (studying)
-
-## Tools
+## Skills
 
 | Area | Tools |
 |---|---|
-| Networking | ![pfSense](https://img.shields.io/badge/pfSense-212121?logo=pfsense&logoColor=white) ![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?logo=pihole&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?logo=tailscale&logoColor=white) ![nmap](https://img.shields.io/badge/nmap-4682B4) |
-| Systems & security | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-3595F9) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff) |
-| Monitoring | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) |
-| Scripting | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) |
+| Embedded | C (learning), Raspberry Pi Pico W, I2C, MQTT |
+| Networking | pfSense, Pi-hole, VLANs, Tailscale, nmap |
+| Systems & security | Linux, Windows, Docker, Wazuh |
+| Scripting | Bash, Python (as needed) |
+
+**Certification:** CompTIA Security+
